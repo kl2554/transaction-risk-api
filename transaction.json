@@ -1,0 +1,22 @@
+{
+  "transaction_id": "tx_123",
+  "timestamp": "2025-05-07T14:30:45Z",
+  "amount": 50.00,
+  "currency": "USD",
+  "customer": {
+    "id": "cust_001",
+    "country": "US",
+    "ip_address": "192.168.1.1"
+  },
+  "payment_method": {
+    "type": "credit_card",
+    "last_four": "1234",
+    "country_of_issue": "US"
+  },
+  "merchant": {
+    "id": "merch_001",
+    "name": "Store A",
+    "category": "books"
+  }
+}
+ 
